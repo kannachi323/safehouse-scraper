@@ -1,4 +1,4 @@
-url,street_address,price,housing,map_address
+url,street_address,price,housing,google_map_url
 https://sfbay.craigslist.org/scz/apa/d/watsonville-completely-remodeled-house/7795627017.html,214 E Riverside Dr. near Lincoln St.,"$1,055",/ 1br - 600ft2 -,N/A
 https://sfbay.craigslist.org/scz/apa/d/santa-cruz-pleasure-point-home-block-to/7794344101.html,36th Avenue,"$5,900",/ 2br - 1502ft2 -,"https://www.google.com/maps/search/36.959198,-121.969357"
 https://sfbay.craigslist.org/scz/apa/d/felton-bed-bath-ben-lomond-beauty/7795606491.html,9425 Glen Arbor Road,"$3,650",/ 3br - 1180ft2 -,"https://www.google.com/maps/search/37.085763,-122.083470"

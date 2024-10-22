@@ -39,7 +39,7 @@ def get_listing_details(listing_url):
             'street_address': street_address,
             'price': price,
             'housing': housing,
-            'map_address': map_link
+            'google_map_url': map_link
         }
     except Exception as e:
         print(f"Error extracting data from {listing_url}: {e}")
